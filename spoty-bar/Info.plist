@@ -33,7 +33,7 @@
 	<key>NSSupportsSuddenTermination</key>
 	<true/>
 	<key>LSUIElement</key>
-	<false/>
+	<true/>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>...this is why I need permission...</string>
 </dict>

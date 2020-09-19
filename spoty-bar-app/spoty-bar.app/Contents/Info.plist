@@ -47,7 +47,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>10.15</string>
 	<key>LSUIElement</key>
-	<false/>
+	<true/>
 	<key>NSAppleEventsUsageDescription</key>
 	<string>...this is why I need permission...</string>
 	<key>NSHumanReadableCopyright</key>
